@@ -3,6 +3,7 @@ Simple Go App using Chi and Fx
 
 To run the project, use:
 ```
+$go build
 $go run main.go
 ```
 
